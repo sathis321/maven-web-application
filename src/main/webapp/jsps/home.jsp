@@ -26,7 +26,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 </h1>
 
 
-<p align=center><small>Copyrights 2019 by <a href="http://mithuntechnologies.com/">Mithun Technologies</a> </small></p>
+<p align=center><small>Copyrights 2019 by <a href="http://mithuntechnolog.com/">Narayananellore Sathish</a> </small></p>
 
 </body>
 </html>
